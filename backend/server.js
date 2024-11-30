@@ -9,11 +9,8 @@ import orderRouter from "./routes/orderRoute.js"
 
 // app config
 const app = express()
-<<<<<<< HEAD
 const port = process.env.PORT || 3000;
-=======
-const port = process.env.PORT || 4000;
->>>>>>> ab18a038b06f033b6508b0a25fbc82ecd54274eb
+// const port = process.env.PORT || 4000;
 
 
 // middlewares
